@@ -1,5 +1,4 @@
 # Baasha
-This is the official github repository of the Baasha programming language
 Baasha is a general purpose programming language written in c++
 Baasha is simple yet dynamic. 
 It ws created as an effort to create a simple language for people to learn as their first programming language.
